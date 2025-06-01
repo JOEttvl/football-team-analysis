@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt  #mohammad ibrahim sasa MOHAMMD ibrahim alanaswah
+import matplotlib.pyplot as plt  #Mohammad ibrahim sasa & Mohammad ibrahim alanaswah
 
 
 df = pd.read_csv("team_input.csv")  
